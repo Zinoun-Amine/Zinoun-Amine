@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Artificial+Intelligence+Student@;Web+Development+Student;Competitive+Programmer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Artificial+Intelligence+Student;Web+Development+Student;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 <h1 align="center">Hi 👋, I'm Zinoun Amine</h1>
 <h3 align="center">I'm fascinated by web development, machine learning, and AI. I love exploring new technologies and finding creative solutions to challenging problems.</h3>
